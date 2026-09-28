@@ -6,7 +6,7 @@ A sleek, fully responsive **photo gallery web app** built with pure HTML, CSS, a
 
 ## 🌐 Live Demo
 
-> **[Click here to view the live site →](YOUR_DEPLOY_LINK_HERE)**
+> **[Click here to view the live site →](https://idyllic-gaufre-bb575d.netlify.app/)**
 
 ---
 
